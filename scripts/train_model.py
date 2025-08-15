@@ -1,3 +1,20 @@
-import pandas as pd
-deneme = pd.read_csv("../Data/test.csv")
-print(deneme.__len__)
+class BertTrainer:
+
+    print("trainer class")
+
+    def yazdır():
+        print("yazdım")
+
+  
+def main():
+    print("main")
+
+trainer = BertTrainer
+
+trainer.yazdır()
+
+ 
+    
+    
+if __name__ == "__main" :
+    main()   
