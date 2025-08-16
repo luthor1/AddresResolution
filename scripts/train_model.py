@@ -210,8 +210,8 @@ def main():
 
     # Modeli eğitme
     result = trainer.train(
-        num_epochs=12,
-        batch_size=64,
+        num_epochs=5,
+        batch_size=1,
         learning_rate=2e-5,
     )
 
