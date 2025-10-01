@@ -1,3 +1,3 @@
-# Adres çözümlemece be brom
+# Adres çözümleme
 
 *  😘
